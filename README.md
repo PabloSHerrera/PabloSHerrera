@@ -79,4 +79,3 @@ Long term, I want to build a career in Europe and create bridges that help young
 I'm always open to connecting with researchers, quants, and professionals in finance, AI, and applied mathematics, especially in Italy and across Europe.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablosebastianherrerabarbales)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloSHerrera)
