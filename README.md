@@ -62,7 +62,7 @@ Over the past two years, I've worked in the innovation area of a Guatemalan bank
 
 ## 🌍 Languages
 
-Spanish (native) · English (B2)· Italian (B1)
+Spanish (native) · English (C1)· Italian (B1)
 
 ---
 
